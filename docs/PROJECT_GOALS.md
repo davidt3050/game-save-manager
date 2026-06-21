@@ -38,12 +38,13 @@ This project is also intended to help me with C++ and systems programming, proje
 ## Success Criteria
 
 ## Constraints
-- Core features should be complete by August 24, 2026.
-- Linux & Windows 10/11 must have native support.
-- Both GUI and CLI must have equal feature support.
-- Code must be mostly written in C++.
-- Code must be built with CMake.
-- Version control (Git) must be used.
-- Commits must be made frequently.
-- Features should be worked on in separate branches.
-- GUI will use Qt6.
+- Core features complete by August 24, 2026.
+- Native Linux & Windows 10/11 support.
+- Both GUI and CLI have equal feature support.
+- Logic written in C++.
+- Config files and data stored in JSON.
+- Code built with CMake.
+- Version control (Git) used with frequent commits.
+- Features worked on in separate branches.
+- GUI toolkit is Qt6.
+- macOS support lower priority due to lack of testing hardware.
